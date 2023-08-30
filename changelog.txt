@@ -16,5 +16,9 @@ Version: 2.0.0
   
 Version: 1.0.0
   - Initial Release
+<<<<<<< HEAD
 
   version final desde local
+=======
+version final desde git hub
+>>>>>>> b6a62ef0caebf566e26f666d3fb1de41d64cd538
